@@ -1,6 +1,6 @@
 package org.itstep.model;
 
-public class Circle extends AbstractShape {
+public class Circle extends AbstractShape{
 
     private double radius;
 

@@ -2,8 +2,8 @@ package org.itstep.model;
 
 public class Triangle extends AbstractShape{
 
-    private double base;
 
+    private double base;
     private double height;
 
     public Triangle(double base, double height) {

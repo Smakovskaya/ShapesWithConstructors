@@ -5,6 +5,7 @@ public class Square extends AbstractShape{
     private double side;
 
     public Square(double side) {
+
         this.side = side;
     }
 
